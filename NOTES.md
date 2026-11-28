@@ -1,8 +1,7 @@
-GPS Pro 1.0.1: two layout fixes.
+GPS Pro 1.0.2 ties the app into TorusApps.com.
 
-- Every page now scrolls far enough for its last card to sit clear of the bottom bar, whatever navigation buttons or gestures your phone uses
-- Cards and tiles are a little more solid, so the contour lines behind them show through less
+- New Update check switch under Privacy, Online extras (off by default, like every online extra). With it on, Check for updates in About reads the signed catalogue on TorusApps.com, shows Update available when a newer version is out and opens the GPS Pro page; each request shows in the Network log. With it off the button just opens the page.
+- About now has Website, More apps, Privacy policy and Email links to torusapps.com, and a Developed by Jonathan Jackson line.
+- Android's own splash now shows the GPS Pro icon on its dark background (the 3-second opening animation is unchanged).
 
-Install it over 1.0.0: your places, tracks, geofences and settings are kept. Needs Android 10 or later.
-
-Full notes: https://customgpter.github.io/gpspro/releases.html
+Installs over the earlier version and keeps everything.
